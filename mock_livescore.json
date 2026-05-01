@@ -1,0 +1,1013 @@
+{
+  "total": 50,
+  "events": [
+    {
+      "event_id": "FOOT-001",
+      "sport": "Football",
+      "home_team": "Marseille",
+      "away_team": "Monaco",
+      "home_score": 0,
+      "away_score": 3,
+      "status": "Live",
+      "venue": "Etihad Stadium, Manchester",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "Ligue 1",
+      "updates": [
+        "GOAL! Clinical finish after a slick team move down the left flank!",
+        "Kick off! The match has begun.",
+        "Injury time \u2014 4 additional minutes shown on the board.",
+        "Counter-attack broken up by a last-ditch tackle.",
+        "GOAL! Last-minute drama as the substitute heads home from a corner!",
+        "Offside flag raised \u2014 goal disallowed by the linesman.",
+        "GOAL from the spot! Coolly dispatched into the bottom corner.",
+        "Free kick in a dangerous position just outside the penalty area.",
+        "Crossbar hit! Brilliant save denies a certain goal."
+      ]
+    },
+    {
+      "event_id": "FOOT-002",
+      "sport": "Football",
+      "home_team": "Leicester City",
+      "away_team": "Everton",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Upcoming",
+      "venue": "Anfield, Liverpool",
+      "date": "2026-05-02T17:52:32.787648",
+      "league": "Ligue 1",
+      "updates": [
+        "Red card shown! The defender is dismissed for a last-man foul."
+      ]
+    },
+    {
+      "event_id": "FOOT-003",
+      "sport": "Football",
+      "home_team": "Juventus",
+      "away_team": "AC Milan",
+      "home_score": 4,
+      "away_score": 0,
+      "status": "Live",
+      "venue": "Stamford Bridge, London",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "Ligue 1",
+      "updates": [
+        "GOAL! Stunning strike from outside the box finds the top corner!",
+        "Crossbar hit! Brilliant save denies a certain goal.",
+        "Substitution made \u2014 fresh legs brought on to change the tempo.",
+        "Penalty awarded after a foul inside the box \u2014 VAR confirms the decision.",
+        "GOAL! Last-minute drama as the substitute heads home from a corner!"
+      ]
+    },
+    {
+      "event_id": "FOOT-004",
+      "sport": "Football",
+      "home_team": "Ajax",
+      "away_team": "PSV",
+      "home_score": 1,
+      "away_score": 4,
+      "status": "Live",
+      "venue": "Santiago Bernabeu, Madrid",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "Bundesliga",
+      "updates": [
+        "GOAL! Last-minute drama as the substitute heads home from a corner!",
+        "GOAL! Stunning strike from outside the box finds the top corner!",
+        "Counter-attack broken up by a last-ditch tackle.",
+        "GOAL! Clinical finish after a slick team move down the left flank!",
+        "Offside flag raised \u2014 goal disallowed by the linesman.",
+        "Substitution made \u2014 fresh legs brought on to change the tempo.",
+        "Second half underway \u2014 both teams looking to push for the winner."
+      ]
+    },
+    {
+      "event_id": "FOOT-005",
+      "sport": "Football",
+      "home_team": "Roma",
+      "away_team": "Lazio",
+      "home_score": 0,
+      "away_score": 3,
+      "status": "Live",
+      "venue": "Camp Nou, Barcelona",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "Ligue 1",
+      "updates": [
+        "Half time \u2014 teams heading down the tunnel for the break.",
+        "Penalty awarded after a foul inside the box \u2014 VAR confirms the decision.",
+        "GOAL! Clinical finish after a slick team move down the left flank!",
+        "Early pressure from the home side forcing a corner.",
+        "Red card shown! The defender is dismissed for a last-man foul.",
+        "Second half underway \u2014 both teams looking to push for the winner."
+      ]
+    },
+    {
+      "event_id": "FOOT-006",
+      "sport": "Football",
+      "home_team": "Porto",
+      "away_team": "Benfica",
+      "home_score": 0,
+      "away_score": 4,
+      "status": "Live",
+      "venue": "Allianz Arena, Munich",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "Serie A",
+      "updates": [
+        "Second half underway \u2014 both teams looking to push for the winner.",
+        "Counter-attack broken up by a last-ditch tackle.",
+        "Injury time \u2014 4 additional minutes shown on the board.",
+        "GOAL! Last-minute drama as the substitute heads home from a corner!",
+        "GOAL! Stunning strike from outside the box finds the top corner!",
+        "Full time whistle \u2014 what a match this has been!",
+        "Offside flag raised \u2014 goal disallowed by the linesman.",
+        "Early pressure from the home side forcing a corner."
+      ]
+    },
+    {
+      "event_id": "FOOT-007",
+      "sport": "Football",
+      "home_team": "Real Madrid",
+      "away_team": "Barcelona",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Final",
+      "venue": "Signal Iduna Park, Dortmund",
+      "date": "2026-04-30T00:52:32.787648",
+      "league": "Premier League",
+      "updates": [
+        "Early pressure from the home side forcing a corner.",
+        "Second half underway \u2014 both teams looking to push for the winner.",
+        "GOAL! Last-minute drama as the substitute heads home from a corner!",
+        "Counter-attack broken up by a last-ditch tackle.",
+        "GOAL! Stunning strike from outside the box finds the top corner!",
+        "Offside flag raised \u2014 goal disallowed by the linesman.",
+        "Full time whistle \u2014 what a match this has been!",
+        "GOAL! Clinical finish after a slick team move down the left flank!",
+        "Yellow card shown for a late tackle in midfield.",
+        "Kick off! The match has begun."
+      ]
+    },
+    {
+      "event_id": "FOOT-008",
+      "sport": "Football",
+      "home_team": "Atletico Madrid",
+      "away_team": "Sevilla",
+      "home_score": 4,
+      "away_score": 0,
+      "status": "Final",
+      "venue": "Parc des Princes, Paris",
+      "date": "2026-04-26T00:52:32.787648",
+      "league": "Bundesliga",
+      "updates": [
+        "Substitution made \u2014 fresh legs brought on to change the tempo.",
+        "Full time whistle \u2014 what a match this has been!",
+        "Red card shown! The defender is dismissed for a last-man foul.",
+        "VAR check in progress for a potential handball in the area.",
+        "Kick off! The match has begun.",
+        "Injury time \u2014 4 additional minutes shown on the board.",
+        "Offside flag raised \u2014 goal disallowed by the linesman.",
+        "GOAL! Clinical finish after a slick team move down the left flank!",
+        "Penalty awarded after a foul inside the box \u2014 VAR confirms the decision."
+      ]
+    },
+    {
+      "event_id": "FOOT-009",
+      "sport": "Football",
+      "home_team": "Fiorentina",
+      "away_team": "Atalanta",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "Live",
+      "venue": "Old Trafford, Manchester",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "Bundesliga",
+      "updates": [
+        "Early pressure from the home side forcing a corner.",
+        "Second half underway \u2014 both teams looking to push for the winner.",
+        "GOAL from the spot! Coolly dispatched into the bottom corner.",
+        "VAR check in progress for a potential handball in the area.",
+        "Corner taken quickly but defended well by the back line.",
+        "Penalty awarded after a foul inside the box \u2014 VAR confirms the decision.",
+        "Counter-attack broken up by a last-ditch tackle."
+      ]
+    },
+    {
+      "event_id": "FOOT-010",
+      "sport": "Football",
+      "home_team": "Manchester City",
+      "away_team": "Arsenal",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Final",
+      "venue": "Tottenham Hotspur Stadium, London",
+      "date": "2026-04-24T00:52:32.787648",
+      "league": "UEFA Champions League",
+      "updates": [
+        "VAR check in progress for a potential handball in the area.",
+        "Offside flag raised \u2014 goal disallowed by the linesman.",
+        "Free kick in a dangerous position just outside the penalty area.",
+        "Second half underway \u2014 both teams looking to push for the winner.",
+        "Substitution made \u2014 fresh legs brought on to change the tempo.",
+        "Corner taken quickly but defended well by the back line.",
+        "Early pressure from the home side forcing a corner."
+      ]
+    },
+    {
+      "event_id": "FOOT-011",
+      "sport": "Football",
+      "home_team": "Inter Milan",
+      "away_team": "Napoli",
+      "home_score": 4,
+      "away_score": 1,
+      "status": "Live",
+      "venue": "Emirates Stadium, London",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "Ligue 1",
+      "updates": [
+        "GOAL! Last-minute drama as the substitute heads home from a corner!",
+        "Kick off! The match has begun.",
+        "GOAL from the spot! Coolly dispatched into the bottom corner.",
+        "VAR check in progress for a potential handball in the area.",
+        "Yellow card shown for a late tackle in midfield.",
+        "Substitution made \u2014 fresh legs brought on to change the tempo.",
+        "Injury time \u2014 4 additional minutes shown on the board."
+      ]
+    },
+    {
+      "event_id": "FOOT-012",
+      "sport": "Football",
+      "home_team": "Tottenham",
+      "away_team": "Manchester United",
+      "home_score": 3,
+      "away_score": 4,
+      "status": "Live",
+      "venue": "Etihad Stadium, Manchester",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "La Liga",
+      "updates": [
+        "Full time whistle \u2014 what a match this has been!",
+        "Free kick in a dangerous position just outside the penalty area.",
+        "GOAL! Clinical finish after a slick team move down the left flank!",
+        "Penalty awarded after a foul inside the box \u2014 VAR confirms the decision.",
+        "GOAL! Last-minute drama as the substitute heads home from a corner!",
+        "Half time \u2014 teams heading down the tunnel for the break.",
+        "Red card shown! The defender is dismissed for a last-man foul."
+      ]
+    },
+    {
+      "event_id": "FOOT-013",
+      "sport": "Football",
+      "home_team": "PSG",
+      "away_team": "Lyon",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Upcoming",
+      "venue": "Anfield, Liverpool",
+      "date": "2026-05-02T00:52:32.787648",
+      "league": "UEFA Champions League",
+      "updates": [
+        "Injury time \u2014 4 additional minutes shown on the board.",
+        "Early pressure from the home side forcing a corner."
+      ]
+    },
+    {
+      "event_id": "FOOT-014",
+      "sport": "Football",
+      "home_team": "Liverpool",
+      "away_team": "Chelsea",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "Live",
+      "venue": "Stamford Bridge, London",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "Premier League",
+      "updates": [
+        "Substitution made \u2014 fresh legs brought on to change the tempo.",
+        "GOAL! Clinical finish after a slick team move down the left flank!",
+        "Penalty awarded after a foul inside the box \u2014 VAR confirms the decision.",
+        "GOAL! Stunning strike from outside the box finds the top corner!",
+        "Red card shown! The defender is dismissed for a last-man foul.",
+        "Early pressure from the home side forcing a corner.",
+        "Injury time \u2014 4 additional minutes shown on the board.",
+        "Free kick in a dangerous position just outside the penalty area."
+      ]
+    },
+    {
+      "event_id": "FOOT-015",
+      "sport": "Football",
+      "home_team": "Newcastle",
+      "away_team": "Aston Villa",
+      "home_score": 3,
+      "away_score": 3,
+      "status": "Live",
+      "venue": "Santiago Bernabeu, Madrid",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "Bundesliga",
+      "updates": [
+        "Corner taken quickly but defended well by the back line.",
+        "GOAL! Stunning strike from outside the box finds the top corner!",
+        "Full time whistle \u2014 what a match this has been!",
+        "Offside flag raised \u2014 goal disallowed by the linesman.",
+        "Free kick in a dangerous position just outside the penalty area.",
+        "Early pressure from the home side forcing a corner.",
+        "Substitution made \u2014 fresh legs brought on to change the tempo.",
+        "Half time \u2014 teams heading down the tunnel for the break."
+      ]
+    },
+    {
+      "event_id": "FOOT-016",
+      "sport": "Football",
+      "home_team": "Bayern Munich",
+      "away_team": "Borussia Dortmund",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Live",
+      "venue": "Camp Nou, Barcelona",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "Serie A",
+      "updates": [
+        "GOAL from the spot! Coolly dispatched into the bottom corner.",
+        "Yellow card shown for a late tackle in midfield.",
+        "GOAL! Stunning strike from outside the box finds the top corner!",
+        "Half time \u2014 teams heading down the tunnel for the break.",
+        "Early pressure from the home side forcing a corner.",
+        "Kick off! The match has begun.",
+        "GOAL! Clinical finish after a slick team move down the left flank!"
+      ]
+    },
+    {
+      "event_id": "FOOT-017",
+      "sport": "Football",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "RB Leipzig",
+      "home_score": 4,
+      "away_score": 4,
+      "status": "Live",
+      "venue": "Allianz Arena, Munich",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "La Liga",
+      "updates": [
+        "Red card shown! The defender is dismissed for a last-man foul.",
+        "Second half underway \u2014 both teams looking to push for the winner.",
+        "Yellow card shown for a late tackle in midfield.",
+        "Substitution made \u2014 fresh legs brought on to change the tempo.",
+        "Penalty awarded after a foul inside the box \u2014 VAR confirms the decision.",
+        "Counter-attack broken up by a last-ditch tackle."
+      ]
+    },
+    {
+      "event_id": "BASK-018",
+      "sport": "Basketball",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Utah Jazz",
+      "home_score": 97,
+      "away_score": 109,
+      "status": "Live",
+      "venue": "Staples Center, Los Angeles",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "NBA Playoffs",
+      "updates": [
+        "Second quarter begins \u2014 both teams looking to pull ahead.",
+        "Overtime! Neither team could separate themselves in regulation.",
+        "Buzzer beater at the end of the third quarter!",
+        "Star player limping after landing awkwardly \u2014 medical staff on court.",
+        "Clutch three-pointer to tie the game with 30 seconds left!",
+        "Technical foul assessed on the bench for dissent.",
+        "Final quarter \u2014 this game is on a knife edge.",
+        "Alley-oop! Beautiful connection between the point guard and center.",
+        "Tip-off! Game underway at the arena."
+      ]
+    },
+    {
+      "event_id": "BASK-019",
+      "sport": "Basketball",
+      "home_team": "Indiana Pacers",
+      "away_team": "Charlotte Hornets",
+      "home_score": 111,
+      "away_score": 81,
+      "status": "Live",
+      "venue": "TD Garden, Boston",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "NBA Finals",
+      "updates": [
+        "Second quarter begins \u2014 both teams looking to pull ahead.",
+        "Third quarter starts \u2014 home team comes out with intensity.",
+        "Final buzzer \u2014 incredible game comes to a conclusion.",
+        "Overtime! Neither team could separate themselves in regulation.",
+        "Blocked shot at the rim \u2014 crowd goes wild!",
+        "Buzzer beater at the end of the third quarter!",
+        "Clutch three-pointer to tie the game with 30 seconds left!",
+        "Tip-off! Game underway at the arena.",
+        "End of the first quarter \u2014 close contest so far."
+      ]
+    },
+    {
+      "event_id": "BASK-020",
+      "sport": "Basketball",
+      "home_team": "Washington Wizards",
+      "away_team": "Detroit Pistons",
+      "home_score": 98,
+      "away_score": 84,
+      "status": "Live",
+      "venue": "United Center, Chicago",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "NBA Finals",
+      "updates": [
+        "Third quarter starts \u2014 home team comes out with intensity.",
+        "Technical foul assessed on the bench for dissent.",
+        "Final quarter \u2014 this game is on a knife edge.",
+        "Star player limping after landing awkwardly \u2014 medical staff on court.",
+        "Full court press applied \u2014 turnover leads to easy basket.",
+        "Final buzzer \u2014 incredible game comes to a conclusion.",
+        "Brilliant pick and roll play results in an easy layup.",
+        "Blocked shot at the rim \u2014 crowd goes wild!",
+        "Fast break opportunity converted with a thunderous slam dunk!"
+      ]
+    },
+    {
+      "event_id": "BASK-021",
+      "sport": "Basketball",
+      "home_team": "Sacramento Kings",
+      "away_team": "Minnesota Timberwolves",
+      "home_score": 121,
+      "away_score": 84,
+      "status": "Live",
+      "venue": "American Airlines Arena, Miami",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "NBA Finals",
+      "updates": [
+        "Timeout called by the head coach to reset the defense.",
+        "Third quarter starts \u2014 home team comes out with intensity.",
+        "Half time show underway \u2014 teams in the locker room.",
+        "Clutch three-pointer to tie the game with 30 seconds left!",
+        "Flagrant foul called \u2014 two free throws plus possession.",
+        "Fast break opportunity converted with a thunderous slam dunk!",
+        "Alley-oop! Beautiful connection between the point guard and center.",
+        "End of the first quarter \u2014 close contest so far.",
+        "Brilliant pick and roll play results in an easy layup.",
+        "Three-pointer from downtown \u2014 nothing but net!"
+      ]
+    },
+    {
+      "event_id": "BASK-022",
+      "sport": "Basketball",
+      "home_team": "Miami Heat",
+      "away_team": "Brooklyn Nets",
+      "home_score": 87,
+      "away_score": 81,
+      "status": "Final",
+      "venue": "Chase Center, San Francisco",
+      "date": "2026-04-27T00:52:32.787648",
+      "league": "NBA",
+      "updates": [
+        "Alley-oop! Beautiful connection between the point guard and center.",
+        "Full court press applied \u2014 turnover leads to easy basket.",
+        "End of the first quarter \u2014 close contest so far.",
+        "Technical foul assessed on the bench for dissent.",
+        "Third quarter starts \u2014 home team comes out with intensity."
+      ]
+    },
+    {
+      "event_id": "BASK-023",
+      "sport": "Basketball",
+      "home_team": "New York Knicks",
+      "away_team": "Los Angeles Clippers",
+      "home_score": 129,
+      "away_score": 87,
+      "status": "Live",
+      "venue": "Barclays Center, Brooklyn",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "NBA Playoffs",
+      "updates": [
+        "Second quarter begins \u2014 both teams looking to pull ahead.",
+        "Tip-off! Game underway at the arena.",
+        "Third quarter starts \u2014 home team comes out with intensity.",
+        "Fast break opportunity converted with a thunderous slam dunk!",
+        "Buzzer beater at the end of the third quarter!",
+        "Half time show underway \u2014 teams in the locker room.",
+        "Clutch three-pointer to tie the game with 30 seconds left!",
+        "Flagrant foul called \u2014 two free throws plus possession."
+      ]
+    },
+    {
+      "event_id": "BASK-024",
+      "sport": "Basketball",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "New Orleans Pelicans",
+      "home_score": 102,
+      "away_score": 95,
+      "status": "Live",
+      "venue": "Madison Square Garden, New York",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "NBA Finals",
+      "updates": [
+        "Alley-oop! Beautiful connection between the point guard and center.",
+        "Blocked shot at the rim \u2014 crowd goes wild!",
+        "Clutch three-pointer to tie the game with 30 seconds left!",
+        "Technical foul assessed on the bench for dissent.",
+        "End of the first quarter \u2014 close contest so far."
+      ]
+    },
+    {
+      "event_id": "BASK-025",
+      "sport": "Basketball",
+      "home_team": "Phoenix Suns",
+      "away_team": "Dallas Mavericks",
+      "home_score": 120,
+      "away_score": 118,
+      "status": "Live",
+      "venue": "Footprint Center, Phoenix",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "NBA Finals",
+      "updates": [
+        "Star player limping after landing awkwardly \u2014 medical staff on court.",
+        "Final buzzer \u2014 incredible game comes to a conclusion.",
+        "Three-pointer from downtown \u2014 nothing but net!",
+        "End of the first quarter \u2014 close contest so far.",
+        "Alley-oop! Beautiful connection between the point guard and center."
+      ]
+    },
+    {
+      "event_id": "BASK-026",
+      "sport": "Basketball",
+      "home_team": "Orlando Magic",
+      "away_team": "Houston Rockets",
+      "home_score": 111,
+      "away_score": 81,
+      "status": "Final",
+      "venue": "Ball Arena, Denver",
+      "date": "2026-04-29T00:52:32.787648",
+      "league": "NBA Finals",
+      "updates": [
+        "Overtime! Neither team could separate themselves in regulation.",
+        "Buzzer beater at the end of the third quarter!",
+        "Technical foul assessed on the bench for dissent.",
+        "Flagrant foul called \u2014 two free throws plus possession.",
+        "Fast break opportunity converted with a thunderous slam dunk!",
+        "Clutch three-pointer to tie the game with 30 seconds left!"
+      ]
+    },
+    {
+      "event_id": "BASK-027",
+      "sport": "Basketball",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Cleveland Cavaliers",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Upcoming",
+      "venue": "Fiserv Forum, Milwaukee",
+      "date": "2026-05-01T16:52:32.787648",
+      "league": "NBA Playoffs",
+      "updates": [
+        "Star player limping after landing awkwardly \u2014 medical staff on court."
+      ]
+    },
+    {
+      "event_id": "BASK-028",
+      "sport": "Basketball",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Toronto Raptors",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Upcoming",
+      "venue": "Staples Center, Los Angeles",
+      "date": "2026-05-02T02:52:32.787648",
+      "league": "NBA Finals",
+      "updates": [
+        "Technical foul assessed on the bench for dissent.",
+        "Tip-off! Game underway at the arena.",
+        "Buzzer beater at the end of the third quarter!"
+      ]
+    },
+    {
+      "event_id": "BASK-029",
+      "sport": "Basketball",
+      "home_team": "Chicago Bulls",
+      "away_team": "Boston Celtics",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Upcoming",
+      "venue": "TD Garden, Boston",
+      "date": "2026-05-02T13:52:32.787648",
+      "league": "NBA",
+      "updates": [
+        "End of the first quarter \u2014 close contest so far."
+      ]
+    },
+    {
+      "event_id": "BASK-030",
+      "sport": "Basketball",
+      "home_team": "Golden State Warriors",
+      "away_team": "Miami Heat",
+      "home_score": 130,
+      "away_score": 113,
+      "status": "Live",
+      "venue": "United Center, Chicago",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "NBA",
+      "updates": [
+        "Blocked shot at the rim \u2014 crowd goes wild!",
+        "End of the first quarter \u2014 close contest so far.",
+        "Tip-off! Game underway at the arena.",
+        "Alley-oop! Beautiful connection between the point guard and center.",
+        "Full court press applied \u2014 turnover leads to easy basket.",
+        "Third quarter starts \u2014 home team comes out with intensity.",
+        "Fast break opportunity converted with a thunderous slam dunk!",
+        "Half time show underway \u2014 teams in the locker room."
+      ]
+    },
+    {
+      "event_id": "BASK-031",
+      "sport": "Basketball",
+      "home_team": "Portland Trail Blazers",
+      "away_team": "San Antonio Spurs",
+      "home_score": 98,
+      "away_score": 83,
+      "status": "Live",
+      "venue": "American Airlines Arena, Miami",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "NBA Playoffs",
+      "updates": [
+        "Brilliant pick and roll play results in an easy layup.",
+        "Third quarter starts \u2014 home team comes out with intensity.",
+        "Half time show underway \u2014 teams in the locker room.",
+        "Blocked shot at the rim \u2014 crowd goes wild!",
+        "Three-pointer from downtown \u2014 nothing but net!",
+        "Alley-oop! Beautiful connection between the point guard and center."
+      ]
+    },
+    {
+      "event_id": "BASK-032",
+      "sport": "Basketball",
+      "home_team": "Golden State Warriors",
+      "away_team": "Chicago Bulls",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Upcoming",
+      "venue": "Chase Center, San Francisco",
+      "date": "2026-05-01T07:52:32.787648",
+      "league": "NBA",
+      "updates": [
+        "Technical foul assessed on the bench for dissent.",
+        "Full court press applied \u2014 turnover leads to easy basket."
+      ]
+    },
+    {
+      "event_id": "BASK-033",
+      "sport": "Basketball",
+      "home_team": "Denver Nuggets",
+      "away_team": "Milwaukee Bucks",
+      "home_score": 117,
+      "away_score": 118,
+      "status": "Final",
+      "venue": "Barclays Center, Brooklyn",
+      "date": "2026-04-26T00:52:32.787648",
+      "league": "NBA Finals",
+      "updates": [
+        "Full court press applied \u2014 turnover leads to easy basket.",
+        "End of the first quarter \u2014 close contest so far.",
+        "Brilliant pick and roll play results in an easy layup.",
+        "Final buzzer \u2014 incredible game comes to a conclusion.",
+        "Fast break opportunity converted with a thunderous slam dunk!",
+        "Half time show underway \u2014 teams in the locker room.",
+        "Flagrant foul called \u2014 two free throws plus possession.",
+        "Clutch three-pointer to tie the game with 30 seconds left!",
+        "Overtime! Neither team could separate themselves in regulation.",
+        "Blocked shot at the rim \u2014 crowd goes wild!"
+      ]
+    },
+    {
+      "event_id": "BASK-034",
+      "sport": "Basketball",
+      "home_team": "LA Lakers",
+      "away_team": "Boston Celtics",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Upcoming",
+      "venue": "Madison Square Garden, New York",
+      "date": "2026-05-01T23:52:32.787648",
+      "league": "NBA Playoffs",
+      "updates": [
+        "Half time show underway \u2014 teams in the locker room.",
+        "Timeout called by the head coach to reset the defense.",
+        "Fast break opportunity converted with a thunderous slam dunk!"
+      ]
+    },
+    {
+      "event_id": "CRIC-035",
+      "sport": "Cricket",
+      "home_team": "India",
+      "away_team": "South Africa",
+      "home_score": 241,
+      "away_score": 270,
+      "status": "Live",
+      "venue": "Lord's Cricket Ground, London",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "Test Series",
+      "updates": [
+        "Drinks break taken \u2014 fielding side having a tactical discussion.",
+        "SIX! Massive hit over mid-wicket clears the boundary comfortably.",
+        "50 partnership broken by a brilliant run-out from point.",
+        "Last ball \u2014 SIX! Incredible finish to the innings!",
+        "Bowling change \u2014 the spinner comes on to try and extract some turn.",
+        "WICKET! Clean bowled \u2014 the stumps are shattered!",
+        "Innings complete \u2014 comprehensive total posted on the board.",
+        "Power play begins \u2014 fielding restrictions in effect."
+      ]
+    },
+    {
+      "event_id": "CRIC-036",
+      "sport": "Cricket",
+      "home_team": "England",
+      "away_team": "Australia",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Upcoming",
+      "venue": "Melbourne Cricket Ground, Melbourne",
+      "date": "2026-05-02T17:52:32.787648",
+      "league": "ODI Series",
+      "updates": [
+        "DRS overturns the decision \u2014 reprieve for the batter!"
+      ]
+    },
+    {
+      "event_id": "CRIC-037",
+      "sport": "Cricket",
+      "home_team": "Sri Lanka",
+      "away_team": "West Indies",
+      "home_score": 311,
+      "away_score": 273,
+      "status": "Live",
+      "venue": "Eden Gardens, Kolkata",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "ICC World Cup",
+      "updates": [
+        "WICKET! Run out after a mix-up between the batters.",
+        "Toss completed \u2014 home team elected to bat first.",
+        "WICKET! Clean bowled \u2014 the stumps are shattered!",
+        "WICKET! Top edge spooned up and taken by mid-on.",
+        "Century! The opener raises the bat to a standing ovation."
+      ]
+    },
+    {
+      "event_id": "CRIC-038",
+      "sport": "Cricket",
+      "home_team": "India",
+      "away_team": "England",
+      "home_score": 174,
+      "away_score": 107,
+      "status": "Live",
+      "venue": "The Oval, London",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "ICC World Cup",
+      "updates": [
+        "LBW appeal \u2014 given out by the umpire, DRS being reviewed.",
+        "Drinks break taken \u2014 fielding side having a tactical discussion.",
+        "WICKET! Clean bowled \u2014 the stumps are shattered!",
+        "Bowling change \u2014 the spinner comes on to try and extract some turn.",
+        "Final over \u2014 12 needed off 6 balls.",
+        "Last 5 overs \u2014 need 40 runs with 4 wickets in hand.",
+        "50 partnership broken by a brilliant run-out from point.",
+        "WICKET! Caught behind \u2014 inside edge onto the glove."
+      ]
+    },
+    {
+      "event_id": "CRIC-039",
+      "sport": "Cricket",
+      "home_team": "India",
+      "away_team": "Australia",
+      "home_score": 328,
+      "away_score": 278,
+      "status": "Live",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "T20 International",
+      "updates": [
+        "50 partnership broken by a brilliant run-out from point.",
+        "DRS overturns the decision \u2014 reprieve for the batter!",
+        "WICKET! Clean bowled \u2014 the stumps are shattered!",
+        "Bowling change \u2014 the spinner comes on to try and extract some turn.",
+        "LBW appeal \u2014 given out by the umpire, DRS being reviewed.",
+        "Final over \u2014 12 needed off 6 balls.",
+        "Last 5 overs \u2014 need 40 runs with 4 wickets in hand.",
+        "SIX! Massive hit over mid-wicket clears the boundary comfortably."
+      ]
+    },
+    {
+      "event_id": "CRIC-040",
+      "sport": "Cricket",
+      "home_team": "Pakistan",
+      "away_team": "Bangladesh",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Upcoming",
+      "venue": "SCG, Sydney",
+      "date": "2026-05-02T21:52:32.787648",
+      "league": "T20 International",
+      "updates": [
+        "WICKET! Run out after a mix-up between the batters.",
+        "WICKET! Caught behind \u2014 inside edge onto the glove."
+      ]
+    },
+    {
+      "event_id": "CRIC-041",
+      "sport": "Cricket",
+      "home_team": "Australia",
+      "away_team": "Pakistan",
+      "home_score": 280,
+      "away_score": 317,
+      "status": "Live",
+      "venue": "Headingley, Leeds",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "ODI Series",
+      "updates": [
+        "Last ball \u2014 SIX! Incredible finish to the innings!",
+        "Power play begins \u2014 fielding restrictions in effect.",
+        "WICKET! Run out after a mix-up between the batters.",
+        "WICKET! Top edge spooned up and taken by mid-on.",
+        "Drinks break taken \u2014 fielding side having a tactical discussion.",
+        "DRS overturns the decision \u2014 reprieve for the batter!",
+        "Innings complete \u2014 comprehensive total posted on the board."
+      ]
+    },
+    {
+      "event_id": "CRIC-042",
+      "sport": "Cricket",
+      "home_team": "England",
+      "away_team": "Pakistan",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Upcoming",
+      "venue": "Newlands, Cape Town",
+      "date": "2026-05-02T03:52:32.787648",
+      "league": "ICC World Cup",
+      "updates": [
+        "Toss completed \u2014 home team elected to bat first."
+      ]
+    },
+    {
+      "event_id": "CRIC-043",
+      "sport": "Cricket",
+      "home_team": "Bangladesh",
+      "away_team": "Zimbabwe",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Upcoming",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-05-01T08:52:32.787648",
+      "league": "ODI Series",
+      "updates": [
+        "Century! The opener raises the bat to a standing ovation."
+      ]
+    },
+    {
+      "event_id": "CRIC-044",
+      "sport": "Cricket",
+      "home_team": "New Zealand",
+      "away_team": "Pakistan",
+      "home_score": 296,
+      "away_score": 138,
+      "status": "Live",
+      "venue": "Sinhalese Sports Club, Colombo",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "ODI Series",
+      "updates": [
+        "Drinks break taken \u2014 fielding side having a tactical discussion.",
+        "Century! The opener raises the bat to a standing ovation.",
+        "WICKET! Top edge spooned up and taken by mid-on.",
+        "Bowling change \u2014 the spinner comes on to try and extract some turn.",
+        "WICKET! Caught behind \u2014 inside edge onto the glove.",
+        "Innings complete \u2014 comprehensive total posted on the board."
+      ]
+    },
+    {
+      "event_id": "CRIC-045",
+      "sport": "Cricket",
+      "home_team": "Afghanistan",
+      "away_team": "Ireland",
+      "home_score": 135,
+      "away_score": 307,
+      "status": "Live",
+      "venue": "Lord's Cricket Ground, London",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "Test Series",
+      "updates": [
+        "Power play begins \u2014 fielding restrictions in effect.",
+        "50 partnership broken by a brilliant run-out from point.",
+        "Last 5 overs \u2014 need 40 runs with 4 wickets in hand.",
+        "WICKET! Clean bowled \u2014 the stumps are shattered!",
+        "First over bowled \u2014 tight start with only 3 runs scored.",
+        "Bowling change \u2014 the spinner comes on to try and extract some turn.",
+        "WICKET! Caught behind \u2014 inside edge onto the glove.",
+        "Innings complete \u2014 comprehensive total posted on the board.",
+        "Last ball \u2014 SIX! Incredible finish to the innings!"
+      ]
+    },
+    {
+      "event_id": "CRIC-046",
+      "sport": "Cricket",
+      "home_team": "South Africa",
+      "away_team": "New Zealand",
+      "home_score": 198,
+      "away_score": 180,
+      "status": "Final",
+      "venue": "Melbourne Cricket Ground, Melbourne",
+      "date": "2026-04-26T00:52:32.787648",
+      "league": "ICC World Cup",
+      "updates": [
+        "Power play begins \u2014 fielding restrictions in effect.",
+        "Boundary! Elegant cover drive races to the fence for four.",
+        "50 partnership broken by a brilliant run-out from point.",
+        "Century! The opener raises the bat to a standing ovation.",
+        "WICKET! Run out after a mix-up between the batters.",
+        "WICKET! Clean bowled \u2014 the stumps are shattered!"
+      ]
+    },
+    {
+      "event_id": "CRIC-047",
+      "sport": "Cricket",
+      "home_team": "New Zealand",
+      "away_team": "South Africa",
+      "home_score": 314,
+      "away_score": 216,
+      "status": "Live",
+      "venue": "Eden Gardens, Kolkata",
+      "date": "2026-04-30T23:52:32.787648",
+      "league": "ODI Series",
+      "updates": [
+        "Bowling change \u2014 the spinner comes on to try and extract some turn.",
+        "50 partnership broken by a brilliant run-out from point.",
+        "Toss completed \u2014 home team elected to bat first.",
+        "First over bowled \u2014 tight start with only 3 runs scored.",
+        "Boundary! Elegant cover drive races to the fence for four.",
+        "DRS overturns the decision \u2014 reprieve for the batter!"
+      ]
+    },
+    {
+      "event_id": "CRIC-048",
+      "sport": "Cricket",
+      "home_team": "Australia",
+      "away_team": "West Indies",
+      "home_score": 339,
+      "away_score": 288,
+      "status": "Live",
+      "venue": "The Oval, London",
+      "date": "2026-04-30T22:52:32.787648",
+      "league": "Test Series",
+      "updates": [
+        "Drinks break taken \u2014 fielding side having a tactical discussion.",
+        "SIX! Massive hit over mid-wicket clears the boundary comfortably.",
+        "LBW appeal \u2014 given out by the umpire, DRS being reviewed.",
+        "Final over \u2014 12 needed off 6 balls.",
+        "DRS overturns the decision \u2014 reprieve for the batter!",
+        "WICKET! Clean bowled \u2014 the stumps are shattered!",
+        "WICKET! Caught behind \u2014 inside edge onto the glove.",
+        "First over bowled \u2014 tight start with only 3 runs scored.",
+        "Last 5 overs \u2014 need 40 runs with 4 wickets in hand.",
+        "Toss completed \u2014 home team elected to bat first."
+      ]
+    },
+    {
+      "event_id": "CRIC-049",
+      "sport": "Cricket",
+      "home_team": "England",
+      "away_team": "Sri Lanka",
+      "home_score": 327,
+      "away_score": 134,
+      "status": "Final",
+      "venue": "Wankhede Stadium, Mumbai",
+      "date": "2026-04-24T00:52:32.787648",
+      "league": "T20 International",
+      "updates": [
+        "Drinks break taken \u2014 fielding side having a tactical discussion.",
+        "Death overs \u2014 scoring rate picking up significantly.",
+        "First over bowled \u2014 tight start with only 3 runs scored.",
+        "Century! The opener raises the bat to a standing ovation.",
+        "DRS overturns the decision \u2014 reprieve for the batter!",
+        "WICKET! Clean bowled \u2014 the stumps are shattered!",
+        "WICKET! Top edge spooned up and taken by mid-on."
+      ]
+    },
+    {
+      "event_id": "CRIC-050",
+      "sport": "Cricket",
+      "home_team": "West Indies",
+      "away_team": "Sri Lanka",
+      "home_score": 180,
+      "away_score": 112,
+      "status": "Final",
+      "venue": "SCG, Sydney",
+      "date": "2026-04-26T00:52:32.787648",
+      "league": "Test Series",
+      "updates": [
+        "DRS overturns the decision \u2014 reprieve for the batter!",
+        "First over bowled \u2014 tight start with only 3 runs scored.",
+        "Last ball \u2014 SIX! Incredible finish to the innings!",
+        "WICKET! Caught behind \u2014 inside edge onto the glove.",
+        "Last 5 overs \u2014 need 40 runs with 4 wickets in hand.",
+        "Power play begins \u2014 fielding restrictions in effect.",
+        "Drinks break taken \u2014 fielding side having a tactical discussion.",
+        "Toss completed \u2014 home team elected to bat first.",
+        "Century! The opener raises the bat to a standing ovation."
+      ]
+    }
+  ]
+}
