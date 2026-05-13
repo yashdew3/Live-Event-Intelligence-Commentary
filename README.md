@@ -3,7 +3,7 @@
 ## 🧭 Project Overview
 Live Event Intelligence is a real-time sports analytics platform that ingests live match data, runs multi-stage AI pipelines, and streams commentary, analysis, alerts, and post-match reports to connected clients.
 
-Deployment: https://live-event-intelligence.onrender.com/
+Deployment: https://live-event-intelligence.onrender.com
 
 ## 🧱 Architecture (ASCII)
 ```
@@ -143,7 +143,7 @@ Reference: [frontend/.env.example](frontend/.env.example)
 
 ## 📚 API Documentation
 - Local: http://localhost:8000/docs
-- Deployed: https://deploy-live-event-intelligence-production.up.railway.app
+- Deployed: https://live-event-intelligence.onrender.com
 
 ## 📁 Folder Structure
 ```
