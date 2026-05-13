@@ -143,7 +143,7 @@ Reference: [frontend/.env.example](frontend/.env.example)
 
 ## 📚 API Documentation
 - Local: http://localhost:8000/docs
-- Deployed: https://live-event-intelligence.onrender.com/docs
+- Deployed: https://deploy-live-event-intelligence-production.up.railway.app
 
 ## 📁 Folder Structure
 ```
